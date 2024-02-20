@@ -1,0 +1,9 @@
+baseURL = 'https://joshmarks.xzy/'
+languageCode = 'en-us'
+title = 'Josh Marks Personal Website'
+theme = 'distillpub'
+
+[taxonomies]
+	author = "authors"
+    authorURL = 'www.example.com'
+    affiliations = 'xyz'
