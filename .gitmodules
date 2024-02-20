@@ -1,0 +1,6 @@
+[submodule "distillpub"]
+	path = distillpub
+	url = https://github.com/grungy/distill-template.git
+[submodule "themes/distillpub"]
+	path = themes/distillpub
+	url = https://github.com/grungy/distillpub-hugo.git
